@@ -34,7 +34,6 @@ let posts = [
   },
 ];
 
-let lastId = 3;
 
 // Middleware
 app.use(bodyParser.json());
